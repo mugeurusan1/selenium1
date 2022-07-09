@@ -7,5 +7,7 @@ public class _01isim {
         for(int i=1;i<=10;i++)
         System.out.println(i);
 
+        System.out.println("degisiklik yap yucel");
+
     }
 }
